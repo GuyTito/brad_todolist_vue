@@ -1,0 +1,3 @@
+add fontawsome icons
+
+a dark mode settings component to manage the dark theme 
